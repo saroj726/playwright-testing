@@ -3,4 +3,5 @@ test('Information', async({page})=>{
     console.log("welcome to playwright")
     console.log("playwright welcomes you")
     console.log("now write your code for testing")
+    console.log("finish")
 })
