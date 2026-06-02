@@ -1,4 +1,5 @@
 const test, {expect}= require('@playwright/test')
 test('Information', async({page})=>{
     console.log("welcome to playwright")
+    console.log("now you can write your code")
 })
